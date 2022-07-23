@@ -37,8 +37,13 @@ a{
   animation: slideUp2 1.5s ease-in forwards;
 }
 
-.info > *{
+.info{
   color: white;
+  background: none;
+}
+
+.info a{
+  color: aqua;
   background: none;
 }
 
